@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "XGPS",
+        "repositoryURL": "https://github.com/FalconLee1011/XGPS",
+        "state": {
+          "branch": "master",
+          "revision": "8f7f619e98afcae387f297cb74344b971bb4afbf",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
